@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("CNY is coming!");
+        System.out.println("Modified file!");
     }
 
     public String getMessage() {
